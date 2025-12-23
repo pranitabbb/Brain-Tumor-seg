@@ -1,1 +1,6 @@
-# Brain-Tumor-seg
+# Python
+-Basics
+-Libraries:numpy,pandas,matplotlib
+-Nibabel
+-PyTorch
+-Basic DL
